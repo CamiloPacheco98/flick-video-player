@@ -25,7 +25,11 @@ dependencies:
   visibility_detector: ^0.4.0+2
   flick_video_player:
     path: "../"
-  video_player: ^2.8.6
+  video_player:
+    git:
+      url: https://github.com/vanlooverenkoen/flutter-packages.git
+      ref: feature/#60048-ios-picture-in-picture
+      path: packages/video_player/video_player
   provider: ^6.0.1
 
   # The following adds the Cupertino Icons font to your application.
