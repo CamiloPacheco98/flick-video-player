@@ -15,7 +15,7 @@ dependencies:
   video_player:
     git:
       url: https://github.com/CamiloPacheco98/flutter-packages.git
-      ref: 8eba9b310c52f036c2fa753907caef453f44400f
+      ref: f5b49f6d729a47e3a23e921ca9a4f65f517888c7
       path: packages/video_player/video_player
   provider: ^6.1.1
   wakelock_plus: ^1.1.4
